@@ -1,0 +1,14 @@
+C:\Users\marinela.branzeanu\source\repos\Homework\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\marinela.branzeanu\source\repos\Homework\Homework1\bin\Debug\Homework1.exe
+C:\Users\marinela.branzeanu\source\repos\Homework\Homework1\bin\Debug\Homework1.pdb
+C:\Users\marinela.branzeanu\source\repos\Homework\Homework1\obj\Debug\Homework1.csprojAssemblyReference.cache
+C:\Users\marinela.branzeanu\source\repos\Homework\Homework1\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\marinela.branzeanu\source\repos\Homework\Homework1\obj\Debug\Homework1.exe
+C:\Users\marinela.branzeanu\source\repos\Homework\Homework1\obj\Debug\Homework1.pdb
+C:\Users\marinela.branzeanu\source\repos\HomeworkInternship2019\Homework\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\marinela.branzeanu\source\repos\HomeworkInternship2019\Homework\Homework1\bin\Debug\Homework1.exe
+C:\Users\marinela.branzeanu\source\repos\HomeworkInternship2019\Homework\Homework1\bin\Debug\Homework1.pdb
+C:\Users\marinela.branzeanu\source\repos\HomeworkInternship2019\Homework\Homework1\obj\Debug\Homework1.csprojAssemblyReference.cache
+C:\Users\marinela.branzeanu\source\repos\HomeworkInternship2019\Homework\Homework1\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\marinela.branzeanu\source\repos\HomeworkInternship2019\Homework\Homework1\obj\Debug\Homework1.exe
+C:\Users\marinela.branzeanu\source\repos\HomeworkInternship2019\Homework\Homework1\obj\Debug\Homework1.pdb
